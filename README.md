@@ -13,3 +13,15 @@ Repositório com anotações, códigos e exercícios do curso Técnico em Inform
 - Redes de Computadores
 
 🚀 Buscando evoluir constantemente por meio de projetos práticos e aprendizado contínuo.
+
+# 💾 Introdução à Informática
+
+Repositório com conteúdos e atividades da disciplina **Introdução à Informática** do curso Técnico em Informática (EAD).
+
+### ✅ Conteúdos abordados:
+- 🖥️ Evolução do hardware e representação de dados  
+- ⚙️ Componentes de hardware e funcionamento básico do computador  
+- 🌐 Sistemas Operacionais, Redes de Computadores e a Internet  
+- 📝 Uso de ferramentas do LibreOffice (Writer, Calc e Impress)
+
+📚 Material voltado para a compreensão dos fundamentos da informática e o uso prático de softwares de escritório.
