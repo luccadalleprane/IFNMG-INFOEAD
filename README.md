@@ -26,7 +26,7 @@ Repositório com conteúdos e atividades da disciplina **Introdução à Inform�
 
 📚 Material voltado para a compreensão dos fundamentos da informática e o uso prático de softwares de escritório.
 
-💡 Lógica de Programação
+#💡 Lógica de Programação
 Repositório com conteúdos e atividades da disciplina Lógica de Programação do curso Técnico em Informática (EAD).
 
 ✅ Conteúdos abordados:
