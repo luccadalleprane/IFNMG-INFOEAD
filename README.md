@@ -25,3 +25,24 @@ Repositório com conteúdos e atividades da disciplina **Introdução à Inform�
 - 📝 Uso de ferramentas do LibreOffice (Writer, Calc e Impress)
 
 📚 Material voltado para a compreensão dos fundamentos da informática e o uso prático de softwares de escritório.
+
+💡 Lógica de Programação
+Repositório com conteúdos e atividades da disciplina Lógica de Programação do curso Técnico em Informática (EAD).
+
+✅ Conteúdos abordados:
+🧠 Conceitos de algoritmos e linguagens de programação
+🔤 Declaração de variáveis, constantes e tipos de dados
+💬 Comentários e boas práticas de documentação
+📥 Comandos de entrada e saída de dados
+🔁 Estruturas de controle: condicionais e de repetição (enquanto, para, repita até)
+🧩 Criação de fluxogramas para representação de algoritmos
+🧮 Definição de procedimentos e funções com sintaxe correta
+🛠️ Modularização e reutilização de código
+🧾 Aplicação prática da lógica para resolução de problemas computacionais
+
+📚 Material voltado para o desenvolvimento do raciocínio lógico, compreensão de algoritmos e iniciação à programação estruturada, com exemplos e exercícios práticos.
+
+👨‍🏫 Licença e Autoria
+Este repositório é de uso didático para fins educacionais. Todos os conteúdos foram organizados com base no plano de ensino da disciplina.
+Autor: Lucca Nascimento Dalleprane
+Curso: Informática – IFES
