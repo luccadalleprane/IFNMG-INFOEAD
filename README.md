@@ -20,6 +20,23 @@ Projetos voltados para a prática de **programação, desenvolvimento web, redes
 
 ---
 
+##📘 Fundamentos da Educação a Distância
+
+Repositório com anotações e resumos da disciplina Fundamentos da Educação a Distância, abordando temas como:
+
+### ✅ Conteúdos abordados
+
+- Educação a Distância Contemporânea  
+- Letramento Digital e sua aplicação no ensino online  
+- Estratégias de organização e estudo no ambiente virtual  
+- Proposta de formação em letramento digital pelo IFES 
+
+As unidades exploram desde conceitos iniciais sobre EaD até práticas de interação, planejamento pessoal e uso crítico da tecnologia para aprendizagem.
+
+📚 Material complementar para aprofundar a compreensão da modalidade EAD e fortalecer a autonomia dos estudantes.
+
+---
+
 ## 💾 Introdução à Informática
 
 Repositório com conteúdos e atividades da disciplina **Introdução à Informática** do curso Técnico em Informática (EAD).
@@ -55,6 +72,18 @@ Repositório com conteúdos e atividades da disciplina **Lógica de Programaçã
 
 ---
 
+## 🖥️ Sistemas Operacionais
+
+Repositório com conteúdos e atividades da disciplina **Sistemas Operacionais** do curso Técnico em Informática (EAD).
+
+### ✅ Conteúdos abordados:
+
+- 📘 Semana 01: Princípios de sistemas operacionais  
+- 💾 Semana 02: Instalação de sistemas operacionais
+  
+📚 Material voltado para a **compreensão do funcionamento dos sistemas operacionais**, **preparação de ambientes computacionais** e **execução prática de instalações** em ambientes controlados, promovendo autonomia técnica e aprendizado prático.
+
+---
 ## 👨‍🏫 Licença e Autoria
 
 Este repositório é de uso **didático** para fins educacionais.  
