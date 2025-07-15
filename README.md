@@ -20,7 +20,7 @@ Projetos voltados para a prática de **programação, desenvolvimento web, redes
 
 ---
 
-##📘 Fundamentos da Educação a Distância
+## 📘 Fundamentos da Educação a Distância
 
 Repositório com anotações e resumos da disciplina Fundamentos da Educação a Distância, abordando temas como:
 
