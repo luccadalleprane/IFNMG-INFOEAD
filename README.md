@@ -77,8 +77,8 @@ Repositório com conteúdos e atividades da disciplina **Sistemas Operacionais**
 
 ### ✅ Conteúdos abordados:
 
-- 📘 Semana 01: Princípios de sistemas operacionais  
-- 💾 Semana 02: Instalação de sistemas operacionais
+- 📘 Princípios de sistemas operacionais  
+- 💾 Instalação de sistemas operacionais
   
 📚 Material voltado para a **compreensão do funcionamento dos sistemas operacionais**, **preparação de ambientes computacionais** e **execução prática de instalações** em ambientes controlados, promovendo autonomia técnica e aprendizado prático.
 
