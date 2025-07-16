@@ -1,1 +1,1 @@
-Instalação Sistema Operacional com Maquina VirtualURL
+Foi gravado um video da instalação de um Sistema Operacional com Maquina VirtualURL. Meu caso (LINUX)
