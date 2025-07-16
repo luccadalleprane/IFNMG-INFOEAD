@@ -60,7 +60,6 @@ Repositório com conteúdos e atividades da disciplina **Lógica de Programaçã
 
 - 🧠 Conceitos de algoritmos e linguagens de programação  
 - 🔤 Declaração de variáveis, constantes e tipos de dados  
-- 💬 Comentários e boas práticas de documentação  
 - 📥 Comandos de entrada e saída de dados  
 - 🔁 Estruturas de controle: condicionais e de repetição (while, for, do...while)  
 - 🧩 Criação de fluxogramas para representação de algoritmos  
