@@ -43,7 +43,6 @@ Repositório com conteúdos e atividades da disciplina **Introdução à Inform�
 
 ### ✅ Conteúdos abordados:
 
-- 🖥️ Evolução do hardware e representação de dados  
 - ⚙️ Componentes de hardware e funcionamento básico do computador  
 - 🌐 Sistemas Operacionais, Redes de Computadores e a Internet  
 - 📝 Uso de ferramentas do LibreOffice (Writer, Calc e Impress)  
